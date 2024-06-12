@@ -4,7 +4,10 @@ This work aims to explain the Qiskit API in a simpler and more understandable ma
 
 # Contents 
 
-The work within the repository will be examined under eight main headings. These are:
+The work within the repository will be examined under eight main headings. 
+
+**These are:**
+
 **1. Circuit Construction,**
 
 **2. Quantum Information,**
